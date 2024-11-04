@@ -1,1 +1,1 @@
-# Paper_Vic_ambulance_tempearture_power_outage
+### this is the code used in the unpublished paper "Power Outages Increase Risk of Ambulance Dispatches Associated with Non-Optimal Temperatures".
